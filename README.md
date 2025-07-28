@@ -40,16 +40,14 @@ I leverage a robust set of technologies and tools to bring data-driven solutions
 
 ### 📊 Weekly Development Breakdown
 
-[![Swaminathan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Swaminathan-5&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Swaminathan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Swaminathan-5&theme=react-dark&hide_border=true&area=true&custom_title=Contribution+Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### GitHub Stats 📈
-
-Here's a glimpse into my recent activity and contributions on GitHub.  
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swaminathan-5&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Swaminathan-5&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Swaminathan-5&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
