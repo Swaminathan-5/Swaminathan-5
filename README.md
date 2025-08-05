@@ -7,11 +7,11 @@
 </p>
 
 <!-- Coding GIF beside intro -->
-<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWU4bnA0a2kxNW4xaXVnYzRscmtmYXRuMThsaWI1eXc5d3lwcmUyNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OumCa12QC9CIvBe2c1/giphy.gif" />
+<img align="right" alt="Coding GIF" width="220" style="margin-left:20px;" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWU4bnA0a2kxNW4xaXVnYzRscmtmYXRuMThsaWI1eXc5d3lwcmUyNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OumCa12QC9CIvBe2c1/giphy.gif" />
 
 ### About Me
 
-<p align="justify">
+<p align="justify" style="padding-right:20px;">
 I am a dedicated <b>Computer Science student</b> specializing in <b>data analytics and machine learning</b>, passionate about transforming raw data into actionable insights.  
 My interests span <b>predictive modeling, data-driven decision-making, and scalable solutions</b> that address real-world challenges.  
 I strive to leverage emerging technologies to <b>optimize performance, enhance efficiency, and deliver measurable impact</b>.  
