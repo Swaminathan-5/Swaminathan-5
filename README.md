@@ -7,7 +7,8 @@
 </p>
 
 <!-- Coding GIF beside intro -->
-<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWU4bnA0a2kxNW4xaXVnYzRscmtmYXRuMThsaWI1eXc5d3lwcmUyNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OumCa12QC9CIvBe2c1/giphy.gif" />
+
 
 ### About Me
 
@@ -68,15 +69,9 @@ I leverage a robust set of technologies and tools to bring data-driven solutions
 
 ---
 
-## 🌐 Dynamic GitHub Metrics
-
-![Metrics](https://metrics.lecoq.io/Swaminathan-5?template=classic&isocalendar=1&languages=1&followup=1)
-
----
-
 ## 🎶 Now Playing on Spotify
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/316byevjgpsajebi2vvkxvdlg4t4)
 
 ---
 
