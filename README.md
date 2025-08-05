@@ -11,7 +11,7 @@
 
 ### About Me
 
-<p align="justify" style="padding-right:20px;">
+<p align="justify" style="padding-right:25px;">
 I am a dedicated <b>Computer Science student</b> specializing in <b>data analytics and machine learning</b>, passionate about transforming raw data into actionable insights.  
 My interests span <b>predictive modeling, data-driven decision-making, and scalable solutions</b> that address real-world challenges.  
 I strive to leverage emerging technologies to <b>optimize performance, enhance efficiency, and deliver measurable impact</b>.  
@@ -80,7 +80,12 @@ I leverage a robust set of technologies and tools to bring data-driven solutions
 
 ## 🎶 Now Playing on Spotify
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/316byevjgpsajebi2vvkxvdlg4t4)
+<p align="left">
+  <a href="https://open.spotify.com/user/316byevjgpsajebi2vvkxvdlg4t4">
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  </a>
+  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDl6M2dnd2huY28yc2J5Njh6emhndHE1M3A4ZGp1c3I3d2g3aDg5ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tf6u6cBpdI9jePqbxg/giphy.gif" width="125" style="margin-left:10px;" />
+</p>
 
 ---
 
