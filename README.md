@@ -6,20 +6,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Swaminathan+K;Data+Analytics+%7C+ML+Enthusiast;Turning+Data+into+Insights+🚀" alt="Typing SVG" />
 </p>
 
-<!-- Coding GIF beside intro -->
-<img align="right" alt="Coding GIF" width="180" style="margin-left:25px; margin-top:5px;" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWU4bnA0a2kxNW4xaXVnYzRscmtmYXRuMThsaWI1eXc5d3lwcmUyNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OumCa12QC9CIvBe2c1/giphy.gif" />
+---
 
 ### About Me
 
-<p align="justify" style="padding-right:30px; margin-top:0;">
+<table>
+<tr>
+<td width="75%">
+<p align="justify">
 I am a dedicated <b>Computer Science student</b> specializing in <b>data analytics and machine learning</b>, passionate about transforming raw data into actionable insights.  
 My interests span <b>predictive modeling, data-driven decision-making, and scalable solutions</b> that address real-world challenges.  
 I strive to leverage emerging technologies to <b>optimize performance, enhance efficiency, and deliver measurable impact</b>.  
 Continuously learning and exploring <b>cutting-edge tools</b>, I aim to contribute innovative solutions to modern technological challenges.
 </p>
-
-<!-- Clear float after GIF -->
-<div style="clear: both;"></div>
+</td>
+<td width="25%" align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWU4bnA0a2kxNW4xaXVnYzRscmtmYXRuMThsaWI1eXc5d3lwcmUyNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OumCa12QC9CIvBe2c1/giphy.gif" width="190"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -57,9 +62,6 @@ I leverage a robust set of technologies and tools to bring data-driven solutions
   <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />
 </p>
 
-<!-- Clear float after tech badges -->
-<div style="clear: both;"></div>
-
 ---
 
 ## 📊 Weekly Development Breakdown
@@ -80,12 +82,18 @@ I leverage a robust set of technologies and tools to bring data-driven solutions
 
 ## 🎶 Now Playing on Spotify
 
-<p align="left">
-  <a href="https://open.spotify.com/user/316byevjgpsajebi2vvkxvdlg4t4">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" />
-  </a>
-  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDl6M2dnd2huY28yc2J5Njh6emhndHE1M3A4ZGp1c3I3d2g3aDg5ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tf6u6cBpdI9jePqbxg/giphy.gif" width="120" style="margin-left:10px;" />
-</p>
+<table>
+<tr>
+<td width="75%">
+<a href="https://open.spotify.com/user/316byevjgpsajebi2vvkxvdlg4t4">
+  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" />
+</a>
+</td>
+<td width="25%" align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDl6M2dnd2huY28yc2J5Njh6emhndHE1M3A4ZGp1c3I3d2g3aDg5ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tf6u6cBpdI9jePqbxg/giphy.gif" width="100"/>
+</td>
+</tr>
+</table>
 
 ---
 
