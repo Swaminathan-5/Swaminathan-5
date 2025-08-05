@@ -18,14 +18,16 @@ I strive to leverage emerging technologies to <b>optimize performance, enhance e
 Continuously learning and exploring <b>cutting-edge tools</b>, I aim to contribute innovative solutions to modern technological challenges.
 </p>
 
-
+<!-- Clear float after GIF -->
 <div style="clear: both;"></div>
 
 ---
 
 ## 🛠️ Tech Stack <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30">
 
+<p>
 I leverage a robust set of technologies and tools to bring data-driven solutions to life.
+</p>
 
 **Programming Languages:**
 <p>
@@ -54,6 +56,9 @@ I leverage a robust set of technologies and tools to bring data-driven solutions
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />
 </p>
+
+<!-- Clear float after tech badges -->
+<div style="clear: both;"></div>
 
 ---
 
