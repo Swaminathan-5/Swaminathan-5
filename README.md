@@ -1,10 +1,24 @@
-<h1 align="center">Hi there 👋 I'm <span style="font-size: 40px;">Swaminathan K</span>! 🚀</h1>
+<!-- Animated Wavy Banner -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:FFC300&height=180&section=header&text=Swaminathan%20K&fontSize=40&fontColor=fff&animation=twinkling)
 
-A passionate **Computer Science student** excited to transform data into impactful solutions. I love diving deep into **machine learning, data analytics, and predictive modeling**. My goal is to implement innovative data-driven solutions to solve complex challenges, improve operational efficiency, and deliver sustainable impact.
+<!-- Animated Typing Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Swaminathan+K;Data+Analytics+%7C+ML+Enthusiast;Turning+Data+into+Insights+🚀" alt="Typing SVG" />
+</p>
+
+<!-- Coding GIF beside intro -->
+<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+### About Me
+
+A passionate **Computer Science student** excited to transform data into impactful solutions.  
+I love diving deep into **machine learning, data analytics, and predictive modeling**.  
+My goal is to **implement innovative data-driven solutions** to solve complex challenges,  
+improve operational efficiency, and deliver sustainable impact.
 
 ---
 
-### Tech Stack 🛠️
+## 🛠️ Tech Stack <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30">
 
 I leverage a robust set of technologies and tools to bring data-driven solutions to life.
 
@@ -38,31 +52,55 @@ I leverage a robust set of technologies and tools to bring data-driven solutions
 
 ---
 
-### 📊 Weekly Development Breakdown
+## 📊 Weekly Development Breakdown
 
-[![Swaminathan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Swaminathan-5&theme=react-dark&hide_border=true&area=true&custom_title=Contribution+Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Swaminathan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Swaminathan-5&theme=dracula&area=true&hide_border=true&custom_title=Contribution+Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swaminathan-5&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Swaminathan-5&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Swaminathan-5&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swaminathan-5&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-### Let's Connect! 🤝
+## 🌐 Dynamic GitHub Metrics
 
-I'm always open to collaborating on exciting projects, sharing knowledge, and learning new things. Feel free to reach out!
+![Metrics](https://metrics.lecoq.io/Swaminathan-5?template=classic&isocalendar=1&languages=1&followup=1)
+
+---
+
+## 🎶 Now Playing on Spotify
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+
+---
+
+## 🏆 Badges & Achievements
+
+![Profile views](https://komarev.com/ghpvc/?username=Swaminathan-5&color=blue&style=flat-square&label=Profile+Views)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Swaminathan-5&theme=darkhub&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to collaborating on exciting projects, sharing knowledge, and learning new things.  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swami2004/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/u/Swaminathan2004/)
 
 ---
 
+<!-- Animated Footer Wave -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:FFC300&height=120&section=footer)
+
 <p align="center">
-  🌟 Thanks for stopping by! Let's build something amazing together. 🌟
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> 
+  Thanks for stopping by! Let's build something amazing together. 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </p>
