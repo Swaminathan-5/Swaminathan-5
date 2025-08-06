@@ -82,18 +82,29 @@ I leverage a robust set of technologies and tools to bring data-driven solutions
 
 ## 🎶 Now Playing on Spotify
 
-<table>
-<tr>
-<td width="75%">
+<div>
+<table style="border: none;">
+<tr style="border: none;">
+<td width="75%" style="border: none;">
 <a href="https://open.spotify.com/user/316byevjgpsajebi2vvkxvdlg4t4">
   <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" />
 </a>
 </td>
-<td width="25%" align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDl6M2dnd2huY28yc2J5Njh6emhndHE1M3A4ZGp1c3I3d2g3aDg5ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tf6u6cBpdI9jePqbxg/giphy.gif" width="100"/>
+<td width="25%" align="center" style="border: none;">
+  <div style="display: flex; align-items: center; flex-direction: column; justify-content: center;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDl6M2dnd2huY28yc2J5Njh6emhndHE1M3A4ZGp1c3I3d2g3aDg5ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tf6u6cBpdI9jePqbxg/giphy.gif" width="130" />
+    <span><strong>🎧 Now Vibing</strong></span>
+  </div>
 </td>
 </tr>
 </table>
+
+<!-- Quote and Badge -->
+<p align="center">
+  <em style="font-size: 14px; color: gray;">"Music fuels the code"</em><br>
+  <img src="https://img.shields.io/badge/Music%20Mood-Lo%20Fi%20Chill%20Beats-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+</p>
+</div>
 
 ---
 
