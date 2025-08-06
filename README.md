@@ -10,10 +10,9 @@
 
 ### About Me
 
-<div>
-<table style="border: none;">
-<tr style="border: none;">
-<td width="75%" style="border: none;">
+<table>
+<tr>
+<td width="75%">
 <p align="justify">
 I am a dedicated <b>Computer Science student</b> specializing in <b>data analytics and machine learning</b>, passionate about transforming raw data into actionable insights.  
 My interests span <b>predictive modeling, data-driven decision-making, and scalable solutions</b> that address real-world challenges.  
@@ -21,12 +20,11 @@ I strive to leverage emerging technologies to <b>optimize performance, enhance e
 Continuously learning and exploring <b>cutting-edge tools</b>, I aim to contribute innovative solutions to modern technological challenges.
 </p>
 </td>
-<td width="25%" align="center" style="border: none;">
+<td width="25%" align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWU4bnA0a2kxNW4xaXVnYzRscmtmYXRuMThsaWI1eXc5d3lwcmUyNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OumCa12QC9CIvBe2c1/giphy.gif" width="190"/>
 </td>
 </tr>
 </table>
-</div>
 
 ---
 
@@ -84,30 +82,18 @@ I leverage a robust set of technologies and tools to bring data-driven solutions
 
 ## 🎶 Now Playing on Spotify
 
-<div>
-<table style="border: none;">
-<tr style="border: none;">
-<td width="75%" style="border: none;">
+<table>
+<tr>
+<td width="75%">
 <a href="https://open.spotify.com/user/316byevjgpsajebi2vvkxvdlg4t4">
   <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" />
 </a>
 </td>
-<td width="25%" align="center" style="border: none;">
-  <div style="display: flex; align-items: center; flex-direction: column; justify-content: center;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDl6M2dnd2huY28yc2J5Njh6emhndHE1M3A4ZGp1c3I3d2g3aDg5ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tf6u6cBpdI9jePqbxg/giphy.gif" width="130" />
-    <span><strong>🎧 Now Vibing</strong></span>
-  </div>
+<td width="25%" align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDl6M2dnd2huY28yc2J5Njh6emhndHE1M3A4ZGp1c3I3d2g3aDg5ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tf6u6cBpdI9jePqbxg/giphy.gif" width="100"/>
 </td>
 </tr>
 </table>
-
-<!-- Quote and Badge -->
-<p align="center">
-  <em style="font-size: 14px; color: gray;">"Music fuels the code"</em><br>
-  <img src="https://img.shields.io/badge/Music%20Mood-Lo%20Fi%20Chill%20Beats-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-</p>
-</div>
-
 
 ---
 
@@ -122,7 +108,7 @@ I leverage a robust set of technologies and tools to bring data-driven solutions
 
 I'm always open to collaborating on exciting projects, sharing knowledge, and learning new things.  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swami2004/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swami2004/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/u/Swaminathan2004/)
 
 ---
