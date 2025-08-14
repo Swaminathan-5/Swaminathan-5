@@ -3,7 +3,7 @@
 
 <!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Swaminathan+K;Data+Analytics+%7C+ML+Enthusiast;Turning+Data+into+Insights+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=👋+Hi+there!+I'm+Swaminathan+K;📊+Data+Analyst+%7C+ML+Enthusiast;🤖+GenAI+Innovator;📈+Turning+Data+into+Insights;💡+Always+Learning+%26+Exploring;🚀+Let's+Build+Something+Amazing" alt="Typing SVG" />
 </p>
 
 ---
@@ -34,32 +34,41 @@ Continuously learning and exploring <b>cutting-edge tools</b>, I aim to contribu
 I leverage a robust set of technologies and tools to bring data-driven solutions to life.
 </p>
 
-**Programming Languages:**
+**Programming Languages:**  
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/R-1f77b4?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />  
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />  
+  <img src="https://img.shields.io/badge/R-1f77b4?style=for-the-badge&logo=r&logoColor=white" alt="R" />  
 </p>
 
-**Data Analytics & Machine Learning:**
+**Data Analytics & Machine Learning:**  
 <p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-FF6600?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Looker-7E57C2?style=for-the-badge&logo=looker&logoColor=white" alt="Looker" />
-  <img src="https://img.shields.io/badge/Excel-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-C60000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />  
+  <img src="https://img.shields.io/badge/Tableau-FF6600?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />  
+  <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker" />  
+  <img src="https://img.shields.io/badge/Excel-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />  
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark" />  
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />  
+  <img src="https://img.shields.io/badge/Keras-C60000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />  
 </p>
 
-**Databases & Cloud Platforms:**
+**GEN AI:**  
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/BigQuery-1A73E8?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google BigQuery" />
-  <img src="https://img.shields.io/badge/Google_Cloud-F4B400?style=for-the-badge&logo=google-cloud&logoColor=black" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />  
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />  
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />  
+  <img src="https://img.shields.io/badge/ChromaDB-2E7D32?style=for-the-badge&logo=databricks&logoColor=white" alt="ChromaDB" />  
+</p>
+
+**Databases & Cloud Platforms:**  
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />  
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />  
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />  
+  <img src="https://img.shields.io/badge/BigQuery-1A73E8?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google BigQuery" />  
+  <img src="https://img.shields.io/badge/Google_Cloud-F4B400?style=for-the-badge&logo=google-cloud&logoColor=black" alt="Google Cloud" />  
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />  
+  <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />  
 </p>
 
 ---
@@ -108,8 +117,20 @@ I leverage a robust set of technologies and tools to bring data-driven solutions
 
 I'm always open to collaborating on exciting projects, sharing knowledge, and learning new things.  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swami2004/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/u/Swaminathan2004/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/swami2004/" target="blank" style="margin-right: 10px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/Swaminathan2004/" target="blank" style="margin-right: 10px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://kaggle.com/mike2207" target="blank" style="margin-right: 10px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/mikeonstrings" target="blank" style="margin-right: 10px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
