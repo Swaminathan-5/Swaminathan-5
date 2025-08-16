@@ -88,23 +88,6 @@ Continuously learning 📖 and exploring <b>cutting-edge tools 🛠️</b>, I ai
 
 ---
 
-## 🎶 Now Playing on Spotify
-
-<table>
-<tr>
-<td width="75%">
-<a href="https://open.spotify.com/user/316byevjgpsajebi2vvkxvdlg4t4">
-  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" />
-</a>
-</td>
-<td width="25%" align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDl6M2dnd2huY28yc2J5Njh6emhndHE1M3A4ZGp1c3I3d2g3aDg5ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tf6u6cBpdI9jePqbxg/giphy.gif" width="100"/>
-</td>
-</tr>
-</table>
-
----
-
 ## 🏆 Badges & Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Swaminathan-5&theme=juicyfresh&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
