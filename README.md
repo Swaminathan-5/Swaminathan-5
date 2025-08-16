@@ -14,10 +14,10 @@
 <tr>
 <td width="75%">
 <p align="justify">
-I am a dedicated <b>Computer Science student</b> specializing in <b>data analytics and machine learning</b>, passionate about transforming raw data into actionable insights.  
-My interests span <b>predictive modeling, data-driven decision-making, and scalable solutions</b> that address real-world challenges.  
-I strive to leverage emerging technologies to <b>optimize performance, enhance efficiency, and deliver measurable impact</b>.  
-Continuously learning and exploring <b>cutting-edge tools</b>, I aim to contribute innovative solutions to modern technological challenges.
+I am a dedicated <b>Computer Science student 💻</b> specializing in <b>data analytics 📊 and machine learning 🤖</b>, passionate about transforming raw data 📂 into actionable insights 💡.  
+My interests span <b>predictive modeling 🔮, data-driven decision-making 🧠, and scalable solutions ⚙️</b> that address real-world challenges 🌍.  
+I strive to leverage emerging technologies 🚀 to <b>optimize performance ⚡, enhance efficiency ⏱️, and deliver measurable impact 🎯</b>.  
+Continuously learning 📖 and exploring <b>cutting-edge tools 🛠️</b>, I aim to contribute innovative solutions 💡 to modern technological challenges.  
 </p>
 </td>
 <td width="25%" align="center">
@@ -30,9 +30,7 @@ Continuously learning and exploring <b>cutting-edge tools</b>, I aim to contribu
 
 ## 🛠️ Tech Stack <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30">
 
-<p>
-I leverage a robust set of technologies and tools to bring data-driven solutions to life.
-</p>
+<p>I leverage a robust set of technologies ⚙️ and tools 🛠️ to bring data-driven solutions 📊 to life 💡.</p>
 
 **Programming Languages:**  
 <p>
@@ -115,7 +113,7 @@ I leverage a robust set of technologies and tools to bring data-driven solutions
 
 ## 🤝 Let's Connect!
 
-I'm always open to collaborating on exciting projects, sharing knowledge, and learning new things.  
+I'm always open to collaborating on exciting projects 🤝, sharing knowledge 📚, and learning new things 🌱
 
 <p align="left">
   <a href="https://www.linkedin.com/in/swami2004/" target="blank" style="margin-right: 10px;">
