@@ -28,7 +28,8 @@ Continuously learning 📖 and exploring <b>cutting-edge tools 🛠️</b>, I ai
 
 ---
 
-## 🛠️ Tech Stack <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30">
+## 🛠️ Tech Stack <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30"> 
+<img src="https://komarev.com/ghpvc/?username=Swaminathan-5&label=Profile%20Views&color=ff4500&style=for-the-badge" alt="Profile Views" align="right"/>
 
 <p>I leverage a robust set of technologies ⚙️ and tools 🛠️ to bring data-driven solutions 📊 to life 💡.</p>
 
@@ -106,8 +107,7 @@ Continuously learning 📖 and exploring <b>cutting-edge tools 🛠️</b>, I ai
 
 ## 🏆 Badges & Achievements
 
-![Profile views](https://komarev.com/ghpvc/?username=Swaminathan-5&color=blue&style=flat-square&label=Profile+Views)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Swaminathan-5&theme=darkhub&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Swaminathan-5&theme=juicyfresh&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
